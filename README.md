@@ -16,7 +16,8 @@ At the end of the this project, students will be able to;
 
 - Create a checkout page following the design and make the calculation of cart dynamically with using of DOM and Event in JS.
 
-![Form](checkout.gif)
+
+![Ekran görüntüsü 2024-10-30 165225](https://github.com/user-attachments/assets/0d008d43-81a1-460a-aaa1-6aff32d094c1)
 
 
 -  User story;
